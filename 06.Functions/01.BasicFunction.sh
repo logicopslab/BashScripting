@@ -14,7 +14,7 @@
 # definitions and declarations, refer to the `unset`, `local`, `declare`, and
 # `typeset` builtins.
 #
-# Functions have their own set of position parameters, just like the script
+# Functions have their own set of positional parameters, just like the script
 # itself, allowing you to parse `$1` to `$9`, and then `${10}` onwards. As with
 # positional parameters given to the script itself, when accessing the 10th
 # parameter, you must wrap the variable name in braces. Functions also use the
