@@ -1,0 +1,19 @@
+Start / Stop / Disable / Enable / Status
+
+1) systemctl start rsyslog.service
+
+2) systemctl stop rsyslog.service
+
+3) systemctl disable rsyslog.service
+
+4) systemctl enable rsyslog.service
+
+5) systemctl status rsyslog.service -l
+
+/etc/rsyslog.conf
+
+
+
+
+
+
