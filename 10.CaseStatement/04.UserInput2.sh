@@ -10,4 +10,4 @@ case $Input in
     No|N|no|n)  
         echo -e "No problem! \nLogicOps Lab is here to help, then!!"  
         ;;  
-    esac  
+    esac
