@@ -1,8 +1,8 @@
 #!/bin/sh
 
-FRUIT="10"
+NUMBER="10"
 
-case "$FRUIT" in
+case "$NUMBER" in
    "8") echo "You chose 8." 
    ;;
    "10") echo "You chose 10." 
