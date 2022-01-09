@@ -1,8 +1,6 @@
 #!/bin/sh
 
 clear
-
-NUMBER=10
  
 # Debug mode ON
 

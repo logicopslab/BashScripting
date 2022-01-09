@@ -1,10 +1,7 @@
 #!/bin/sh
-
-: syntax on
-
 clear
  
-# Debug mode ON (Specifix parts)
+# Debug mode ON (Specific parts)
 
 set -x
 for i in *
