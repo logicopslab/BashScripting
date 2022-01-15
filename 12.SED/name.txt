@@ -1,0 +1,5 @@
+Hello! My name is Ravish
+and you are watching Shell Scripting tutorial
+on LogicOps Lab
+This is a text file
+This is a new line
